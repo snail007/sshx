@@ -1,6 +1,8 @@
 # sshx
 批量ssh操作工具。
 
+[下载地址](https://github.com/snail007/sshx/releases)
+
 ## 特点
 
 - 多平台支持，Windows、macOS、Linux。
